@@ -1,2 +1,4 @@
-# apex_lecture
-Lecture notes for Oracle Apex
+# Oracle Apex 教學講義
+
+- cht: Chinese version
+- eng: English version
