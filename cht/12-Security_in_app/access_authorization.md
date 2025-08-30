@@ -6,6 +6,12 @@
 
 - 成功標準：能建立一個共用的授權方案、將其套用到應用或頁面元件，並使用 Access Control Administration 管理使用者與角色。
 
+## Podcast
+
+用聽的，幫助你瞭解內容。
+
+[下課後的 Apex Podcast Platforms - Flink by Firstory](https://open.firstory.me/user/cmcezyey605rl01zc6k215vo3/platforms)
+
 ## 授權（Authorization）是什麼？
 
 授權是根據使用者權限限制對應用程式中頁面或元件（region、item、button 等）使用的機制。
